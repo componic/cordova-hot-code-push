@@ -1,6 +1,5 @@
 # THIS PROJECT IS FORKED FROM [snipking/cordova-hot-code-push](https://github.com/snipking/cordova-hot-code-push)
 
-Because the origin project is stopped maintenance. We forked and do bug fix on this. PRs and ISSUEs welcome.
 
 # Cordova Hot Code Push Plugin
 
